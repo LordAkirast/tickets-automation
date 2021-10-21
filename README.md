@@ -1,2 +1,3 @@
 # tickets-automation
 This project is a Python project designed to use web scraping with selenium to check and get tickets from my company's employees, save them in a variable and then send them in text form to my team manager.
+A problem I had in my support section is that every time my manager needed to access the OTRS and look up each consultant's tickets one by one in order to know how many open tickets each one of them had. So I developed a code that gives him this data and also tells him what the average number of calls per consultant is and which consultant is above the average number of calls and needs help.
